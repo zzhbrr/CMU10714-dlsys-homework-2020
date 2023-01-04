@@ -10,5 +10,5 @@ CMU10-414/714: Deep Learning Systems 2022
 
 课程将完成5个lab。hw0是机器学习的基础知识，高手可以选择跳过；hw1是熟悉needle，实现自动求导机制，学会写算子的前向和反向；hw2实现深度学习框架基础内容，初始化、nn、optim、data等；hw3实现numpy、CPU、GPU的计算后端；hw4实现卷积、RNN、LSTM。
 
-每个lab内容不算太难，但都很有挑战。 
+每个lab内容不算太难，但都很有挑战，一共用了15天时间学完。 
 
